@@ -1,9 +1,5 @@
 # final-project
 
-## Demo
-
-[App demo](http://hope.greeto.co.il)
-
 
 ## Project setup
 ```
